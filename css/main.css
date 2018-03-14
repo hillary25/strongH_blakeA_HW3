@@ -12,6 +12,9 @@
 	width: 1000px;
 	height: 700px;
 	margin: 0 auto;
+	background: url(../assets/background2.svg);
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
 #gameSpace
