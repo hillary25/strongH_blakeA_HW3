@@ -1,5 +1,20 @@
-body
+@charset "utf-8";
+/* CSS Document */
+
+.hidden
 {
-	background-color: white;
-	color: #333;
+	display: none;
+}
+
+#container
+{
+	/*temporary width and height*/
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+}
+
+#gameSpace
+{
+	
 }
